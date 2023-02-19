@@ -1,0 +1,32 @@
+.masterkey_nav{
+    background-color: white;
+    filter: drop-shadow(7px 6px 4px rgba(0, 0, 0, 0.25));
+}
+.masterkey_navmanue{
+    margin:0px 48px 0 29px;
+    padding-top: 32px;
+}
+.masterkey_logo{
+margin-bottom: 72px;
+}
+.masterkey_list_item{
+    margin-bottom: 45px;
+}
+.masterkey_list_item:last-child{
+    padding-bottom: 45px;
+}
+.masterkey_list_item_img{
+    margin-right: 33px;
+}
+.masterkey_frame{
+    background-image: url('../../../images/menuFrame.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 16px;
+}
+.masterkey_need_help_icon{
+    margin-bottom: 11px;
+    background-image: url('../../../images/menuRound.svg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
