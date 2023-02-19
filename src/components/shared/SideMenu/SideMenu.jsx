@@ -92,7 +92,9 @@ const SideMenu = () => {
                 <div className='masterkey_need_help_icon flex justify-center'>
                     <img src={plus} alt="plus" />
                 </div>
-                <h2 className='text-xl2'>Need Help</h2>
+                <h2 className='text-xl2 text-white'>Need Help</h2>
+                <p className='text-sm text-white masterkey_p'> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum</p>
+                <button className='masterkey_customer_btn text-white font-800'>Customer Service</button>
             </div>
         </nav>
     );

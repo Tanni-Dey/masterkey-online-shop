@@ -10,12 +10,14 @@ module.exports = {
     colors:{
       'green':'38FF4C',
       'black':'#000000',
+      'white':' #FFFFFF'
     },
     fontSize: {
       sm: '16px',
       md: '20px',
       xl: '22px',
       xl2: '28px',
+      xl3: '36px',
     },
     extend: {},
   },
